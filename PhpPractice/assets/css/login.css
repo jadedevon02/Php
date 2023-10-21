@@ -1,0 +1,104 @@
+*{
+    background-color: #181a20;
+    
+}
+
+.login-username{
+    font-size: 18px;
+    background-color: #181a20;
+    color: white;
+    margin-left: 20px;
+}
+.login-password{
+    font-size: 18px;
+    margin-top: -30px;
+    background-color: #181a20;
+    color: white;
+    margin-left: 20px; 
+}
+.login-form h2{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    border-bottom: 1px white solid;
+}
+
+
+.login-form{
+    border-radius: 15px;
+    background-color: #181a20;
+    color: white;
+    border: 2px solid white;
+    display: grid;
+    height: 500px;
+    width: 400px;
+    margin-left: 500px;
+    margin-top: 50px;
+    
+}
+
+input{
+
+    font-size: 16px;
+    background-color: #181a20;
+    border-radius: 10px;
+    color: white;
+    margin-top: -35px;
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    border: white 1px solid;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 9px;
+}
+
+
+a:hover{
+    color: red;
+    text-decoration: underline;
+    transition-duration: 0.3s;
+
+}
+
+.login-submitButton{
+    margin-left: 150px;
+    margin-top: -20px;
+    background-color: white;
+    color: black;
+    width: 90px;
+}
+.login-submitButton:hover{
+    color: white;
+    border-color: blue;
+    background-color: blue;
+    transition: 0.5s;
+}
+
+p{
+    margin-left: 15px;
+    background-color: #181a20;
+    color: white;
+    margin-top: -5px;
+    text-align: center;
+    margin-top: -35px;
+}
+
+p a{
+    background-color: #181a20;
+    color: white;  
+    margin-left: 5px;
+    font-size: 17px;
+}
+
+
+
+
+
+
